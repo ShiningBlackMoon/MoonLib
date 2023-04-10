@@ -1,0 +1,11 @@
+name: MoonLib
+version: '${version}'
+main: stars.astral.moonlib.MoonLib
+api-version: 1.13
+prefix: MoonLib
+softdepend: [WorldEdit]
+authors: [ShiningBlackMoon]
+description: MoonLib is a library plugin including essential features for development.
+website: www.blackmoonprojects.com
+commands:
+  moonlib:
